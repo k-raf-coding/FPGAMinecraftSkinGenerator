@@ -20,7 +20,8 @@ module Top(
 	 inout wire PS2_CLK
 );
 
-wire finalx, finaly
+wire [7:0] finalx, finaly;
+
 
 top_vga head_vga(
     .CLOCK_50(CLOCK_50),
