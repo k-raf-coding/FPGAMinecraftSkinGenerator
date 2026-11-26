@@ -1,0 +1,46 @@
+
+
+C:/Users/kianr/OneDrive/Desktop/SkinGenRepo/Top/vga_pll.v
+
+Nov 25 09PM:06:36>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/kianr/OneDrive/Desktop/SkinGenRepo/Top/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+C:/Users/kianr/OneDrive/Desktop/SkinGenRepo/Top/vga_pll.v
+
+Nov 25 09PM:06:46>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/kianr/OneDrive/Desktop/SkinGenRepo/Top/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+C:/Users/kianr/OneDrive/Desktop/SkinGenRepo/Top/vga_pll.v
+
+Nov 25 09PM:06:54>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/kianr/OneDrive/Desktop/SkinGenRepo/Top/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+C:/Users/kianr/OneDrive/Desktop/SkinGenRepo/Top/vga_pll.v
+
+Nov 25 09PM:14:05>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/kianr/OneDrive/Desktop/SkinGenRepo/Top/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+C:/Users/kianr/OneDrive/Desktop/SkinGenRepo/Top/vga_pll.v
+
+Nov 25 09PM:16:26>: Error in CNX file format.
+
+Error messages are listed in file
+C:/Users/kianr/OneDrive/Desktop/SkinGenRepo/Top/vga_pll.cnxerr.
+
+Can't create the custom megafunction variation file(s)
