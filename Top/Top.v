@@ -23,7 +23,7 @@ module Top(
 wire [7:0] finalx, finaly;
 
 
-top_vga head_vga(
+vga_top head_vga(
     .CLOCK_50(CLOCK_50),
     .KEY(KEY),
     .VGA_R(VGA_R),
