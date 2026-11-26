@@ -2,7 +2,8 @@ module ps2_top(
 HEX0, HEX1, HEX2, HEX3, HEX4, HEX5,
 LEDR,
 PS2_DAT, PS2_CLK,
-KEY, CLOCK_50
+KEY, CLOCK_50,
+finX, finY
 );
 
 inout PS2_DAT, PS2_CLK;
@@ -10,6 +11,7 @@ input [0:0] KEY;
 input CLOCK_50;
 output reg [6:0] HEX5, HEX4, HEX3, HEX2, HEX1, HEX0;
 output [9:0] LEDR;
+output [7:0] finX, finY;
 
 assign LEDR [8:3] = 6'b0;
 
@@ -22,6 +24,9 @@ wire [7:0] delx, dely;
 assign FPGA_command_output = 8'hF4;
 
 wire [7:0] netx, nety;
+assign finX = netx;
+assign finY = nety;
+
 altera_up_ps2 ps2_controller(
 .clk(CLOCK_50),
 .reset(~KEY[0]),
